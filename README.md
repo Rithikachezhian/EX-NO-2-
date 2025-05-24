@@ -200,7 +200,8 @@ return 0;
 ## Output:
 
 
-![image](https://github.com/user-attachments/assets/f216fd9a-f4fc-4386-b129-0ad9f9f1d067)
+![Screenshot 2025-05-24 234402](https://github.com/user-attachments/assets/f98ad6d0-9150-4075-8e1a-d47a5e2c93e9)
+
 
 
 ## RESULT:
